@@ -24,6 +24,13 @@ img {
 	width: 100%;
 	object-fit: cover;
 }
+p1 {
+	color: black;
+	font-family: cursive;
+	font-size: 1.4rem;
+	line-height: 2.5rem;
+	font-weight: 300;
+	letter-spacing: 0.05rem;
 p {
 	color: black;
 	font-size: 1.4rem;
