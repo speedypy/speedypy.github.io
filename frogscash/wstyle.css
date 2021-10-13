@@ -3,11 +3,11 @@ body{
   padding: 0;
   background-color: #0d0d0d;
 }
-.preloader{
-  margin: 15em 38em;
-  border: 16px solid #e3e3e3;
-  border-radius: 50%;
-  border-top: 16px solid #800DF3;
-  width: 150px;
-  height: 150px;
+#preloader{
+    background: #000 url(circle-loader-gif-2.gif) no-repeat center center;
+    background-size: 15%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
 }
