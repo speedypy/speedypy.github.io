@@ -2,6 +2,8 @@ body{
   margin: 0;
   padding: 0;
   background: linear-gradient(45deg, red, purple);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 #preloader{
     background: #000 url(circle-loader-gif-2.gif) no-repeat center center;
